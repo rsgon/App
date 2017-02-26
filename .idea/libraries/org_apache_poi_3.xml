@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.apache.poi.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.m2/libsForIdea/org.apache.poi.3.15" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/.m2/libsForIdea/org.apache.poi.3.15/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/.m2/libsForIdea/org.apache.poi.3.15" recursive="false" />
+  </library>
+</component>
